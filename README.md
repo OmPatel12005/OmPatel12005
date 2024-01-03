@@ -1,4 +1,4 @@
-Hi 👋 My name is Om Patel
+Hey 👋, I'm Om Patel
 =========================
 
 I study Mechatronics Engineering & mainly focus on software development/ product management
