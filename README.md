@@ -1,7 +1,7 @@
   Hey 👋, I'm Om Patel
 =========================
 
-I study Mechatronics Engineering & mainly focus on software development/ product management
+I study Mechatronics Engineering & mainly focus on Software Development/ Product Management
 -------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Toronto
