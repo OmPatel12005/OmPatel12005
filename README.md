@@ -1,12 +1,7 @@
   Hey 👋, I'm Om Patel
-=========================
-
-I study Mechatronics Engineering & mainly focus on Software Development/ Product Management
+  
 -------------------------------------------------------------------------------------------
 
-* 🌍  I'm based in Toronto
-* ✉️  You can contact me at [o6patel@torontomu.ca](mailto:o6patel@torontomu.ca)
-* ⚡  Feel free to reach out, always happy to have a conversation
 
 ### Skills
 
